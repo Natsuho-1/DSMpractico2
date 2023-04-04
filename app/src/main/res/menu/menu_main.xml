@@ -5,4 +5,12 @@
         android:title="Cerrar Sesion"
         app:showAsAction="never"
         ></item>
+    <item android:id="@+id/secondItem"
+        android:title="2-Promedio"
+        app:showAsAction="never"
+        ></item>
+    <item android:id="@+id/tercerItem"
+        android:title="2-Salario Neto"
+        app:showAsAction="never"
+        ></item>
 </menu>
